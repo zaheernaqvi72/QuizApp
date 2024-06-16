@@ -1,0 +1,53 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "choices": ["Paris", "London", "Rome", "Berlin"],
+      "correct_answer": "Paris"
+    },
+    {
+      "question": "What is 2 + 2?",
+      "choices": ["3", "4", "5", "6"],
+      "correct_answer": "4"
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "choices": ["Harper Lee", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"],
+      "correct_answer": "Harper Lee"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "choices": ["Mars", "Earth", "Jupiter", "Venus"],
+      "correct_answer": "Mars"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "choices": ["0", "1", "2", "3"],
+      "correct_answer": "2"
+    },
+    {
+      "question": "In which year did World War II end?",
+      "choices": ["1942", "1943", "1945", "1946"],
+      "correct_answer": "1945"
+    },
+    {
+      "question": "What is the largest mammal?",
+      "choices": ["Elephant", "Blue Whale", "Great White Shark", "Giraffe"],
+      "correct_answer": "Blue Whale"
+    },
+    {
+      "question": "Which element has the chemical symbol 'O'?",
+      "choices": ["Oxygen", "Gold", "Silver", "Hydrogen"],
+      "correct_answer": "Oxygen"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "choices": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "correct_answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the square root of 64?",
+      "choices": ["6", "7", "8", "9"],
+      "correct_answer": "8"
+    }
+  ]
+  
